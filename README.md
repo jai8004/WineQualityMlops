@@ -1,1 +1,1 @@
-MLOPS DEMO on WineQuality Data Set Using DVC and MLFLOW 
+MLOPS demo on WineQuality Data Set using DVC and MLFLOW. 
