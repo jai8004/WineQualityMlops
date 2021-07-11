@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/25a78531dbe143b5843f35a9b8ba4309/artifacts
+end_time: 1626027975255
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 25a78531dbe143b5843f35a9b8ba4309
+run_uuid: 25a78531dbe143b5843f35a9b8ba4309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1626027974975
+status: 4
+tags: []
+user_id: pcm
